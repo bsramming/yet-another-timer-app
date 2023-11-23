@@ -1,0 +1,14 @@
+{
+    "name": "Stretching",
+    "repeat": true,
+    "timers": [
+        {
+            "description": "Do stretch",
+            "duration": 30
+        },
+        {
+            "description": "Switch stretch",
+            "duration": 10
+        }
+    ]
+}

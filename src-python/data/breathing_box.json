@@ -1,0 +1,22 @@
+{
+    "name": "Breathing Box",
+    "repeat": true,
+    "timers": [
+        {
+            "description": "Inhale",
+            "duration": 4
+        },
+        {
+            "description": "Hold",
+            "duration": 4
+        },
+        {
+            "description": "Exhale",
+            "duration": 4
+        },
+        {
+            "description": "Hold",
+            "duration": 4
+        }
+    ]
+}
